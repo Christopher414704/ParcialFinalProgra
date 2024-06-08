@@ -1,0 +1,15 @@
+CREATE DATABASE StudentDB;
+GO
+
+USE StudentDB;
+GO
+
+CREATE TABLE Usuarios (
+	Carnet NVARCHAR (50) PRIMARY KEY,
+	Nombre NVARCHAR (100),
+	Telefono NVARCHAR (20),
+	Grado NVARCHAR (50),
+	Usuario NVARCHAR (50)
+
+);
+GO

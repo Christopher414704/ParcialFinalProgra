@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Erika\\Desktop\\ProyectoFinalProgra\\StudentCRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{420D8A4E-A4F9-4640-80C0-F5295B4A7C2F}|StudentCRUD\\StudentCRUD.csproj|c:\\users\\erika\\desktop\\proyectofinalprogra\\studentcrud\\studentcrud\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{420D8A4E-A4F9-4640-80C0-F5295B4A7C2F}|StudentCRUD\\StudentCRUD.csproj|solutionrelative:studentcrud\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{420D8A4E-A4F9-4640-80C0-F5295B4A7C2F}|StudentCRUD\\StudentCRUD.csproj|c:\\users\\erika\\desktop\\proyectofinalprogra\\studentcrud\\studentcrud\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{420D8A4E-A4F9-4640-80C0-F5295B4A7C2F}|StudentCRUD\\StudentCRUD.csproj|solutionrelative:studentcrud\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Erika\\Desktop\\ProyectoFinalProgra\\StudentCRUD\\StudentCRUD\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "StudentCRUD\\DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\Erika\\Desktop\\ProyectoFinalProgra\\StudentCRUD\\StudentCRUD\\DatabaseHelper.cs",
+              "RelativeToolTip": "StudentCRUD\\DatabaseHelper.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAACBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T16:42:20.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Erika\\Desktop\\ProyectoFinalProgra\\StudentCRUD\\StudentCRUD\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "StudentCRUD\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Erika\\Desktop\\ProyectoFinalProgra\\StudentCRUD\\StudentCRUD\\MainWindow.xaml.cs",
+              "RelativeToolTip": "StudentCRUD\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwDEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T16:40:43.981Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
